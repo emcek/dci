@@ -1,4 +1,4 @@
-## 1.0.8
+## 1.0.9
 * 7 Second initial test release for the public
 * 7 First initial test release for the public
 * 7 Second initial test release for the public
